@@ -1,0 +1,6 @@
+![[Frame 7891.png]]
+Im Designsystem spielen Farben eine entscheidende Rolle, da sie verschiedene Aufgaben erfüllen. Die Hauptfarbe, die durch den Hex-Code #A32EFF repräsentiert wird, dient als öffentliche Farbe und wird vor allem für die Repräsentation des "öffentlichen Status" in  Elemente verwendet. Die sekundäre Farbe, definiert als #FFA92C, fungiert als private Farbe und findet bei Elementen Einsatz, die den Status "Privat" repräsentieren . 
+Die elementare Funktion der Farbgebung besteht darin, die Zustände der Seite zu unterscheiden. Hier kommt die tertiäre Farbe ins Spiel, die durch den Code #BFFDF dargestellt wird und als Akzentfarbe fungiert. Sie zeigt dem Benutzer an, welche Elemente momentan im Focus sind.
+Die neutrale Farbe, codiert als #0C0C20, wird hingegen hauptsächlich für den Text verwendet, um eine gute Lesbarkeit zu gewährleisten. 
+Für Fehlermeldungen steht die Farbe mit dem Code #E31C3D bereit, um diese deutlich hervorzuheben. Insgesamt tragen diese Farbcodes maßgeblich zur visuellen Kohärenz und Benutzerfreundlichkeit des Designs bei.
+#[[Atomic Design]]

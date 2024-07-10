@@ -1,0 +1,2 @@
+![[Pasted image 20240617160703.png]]
+Unter /artists/?artistname findet man das öffentliche Portfolio der jeweiligen Künstler. Hier befindet sich eine Liste der öffentlich sichtbaren Arbeiten und eine Tag-Wolke, die die relevantesten Tags für die jeweilige Künstler zeigt. Danach folgen die angelegten Arbeiten.

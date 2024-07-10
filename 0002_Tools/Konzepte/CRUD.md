@@ -1,0 +1,2 @@
+
+CRUD ist ein grundlegendes Konzept in der Datenbankverwaltung und steht für Create, Read, Update und Delete. Diese vier Operationen bilden die grundlegenden Funktionen, die in vielen Anwendungen zur Datenverwaltung verwendet werden. "Create" ermöglicht das Erstellen neuer Datensätze in einer [[Database|Datenbank]], "Read" ermöglicht das Abrufen von Datensätzen aus der [[Database|Datenbank]], "Update" ermöglicht das Ändern von vorhandenen Datensätzen und "Delete" ermöglicht das Löschen von Datensätzen aus der [[Database|Datenbank]]. 

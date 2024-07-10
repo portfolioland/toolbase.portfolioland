@@ -1,0 +1,2 @@
+![[Pasted image 20240617122014.png]]
+Auf /register kann sich ein neuer User registrieren. Dabei werden im Backend der Name, die Email, das Password und die favorisierten Pronomen, sowie ein Link zu einer evtl. vorhandenen Website gespeichert. Um sich zu registrieren wird außerdem ein Codewort benötigt.
